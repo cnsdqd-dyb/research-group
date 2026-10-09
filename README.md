@@ -24,16 +24,13 @@
 | --- | --- | --- | --- | --- |
 | Structured Reasoning | 用显式推理步骤标签与图结构优化研究语言模型推理的效率和可解释性。 | LLMs & Agents · Reasoning · Post-training | ICLR 2026；早期预印本 2025 | [正式论文](https://proceedings.iclr.cc/paper_files/paper/2026/hash/ad5b3f324b24c17cdc2f3712298c76bd-Abstract-Conference.html) · [早期预印本](https://arxiv.org/abs/2506.20241) · [项目仓库](https://github.com/cnsdqd-dyb/Enhancing-Large-Language-Models-through-Structured-Reasoning) · [数据](https://huggingface.co/datasets/FreeFrank/Structured-Reasoning)；训练代码和检查点尚未发布。 |
 | Super Research | 为需要深度调查、广泛检索与证据综合的复杂研究问题构建任务与评测基准。 | LLMs & Agents · Deep Research · Benchmark | arXiv 2026；未核实会议录用信息 | [论文](https://arxiv.org/abs/2603.00582) · [项目与榜单](https://cnsdqd-dyb.github.io/Super-Research-Benchmark/) |
+| VillagerAgent | 在 Minecraft 中使用任务依赖图协调多个智能体执行复杂任务。 | LLMs & Agents · Multi-Agent · Planning | Findings of ACL 2024 | [论文](https://aclanthology.org/2024.findings-acl.964/) · [代码](https://github.com/cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework) |
 
 Structured Reasoning 的正式论文题名为 *Structured Reasoning for LLMs: A Unified Framework for Efficiency and Explainability*；早期预印本题名为 *Enhancing Large Language Models through Structured Reasoning*。会议信息以正式论文集为准。
 
-跨方向项目：[VillagerAgent](#embodied-ai) 研究多智能体协调与任务规划。
-
 ## Embodied AI
 
-| 项目 | 一句话简介 | 方向标签 | 年份／会议 | 资源与发布状态 |
-| --- | --- | --- | --- | --- |
-| VillagerAgent | 在 Minecraft 中使用任务依赖图协调多个智能体执行复杂任务。 | Embodied AI · LLMs & Agents · Multi-Agent · Planning | Findings of ACL 2024 | [论文](https://aclanthology.org/2024.findings-acl.964/) · [代码](https://github.com/cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework) |
+No public projects are currently indexed in this direction.
 
 ## AI for Science
 
